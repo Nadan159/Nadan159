@@ -3,7 +3,7 @@
 
 - I’m currently working on **FLL Bioglow season**
 
-- 🌱 I’m currently learning **FTC BIOBUZZ season**
+- 🌱 I’m currently learning **to program in java for the FTC BIOBUZZ season**
 
 - I have a fun side project called [fllcalc.com](fllcalc.com)
 

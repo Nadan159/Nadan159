@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nadav shmuly</h1>
-<h3 align="center">I am a computer since student, I am also the lead Pybricks developer at the Mars Monkeys #3140 fll and a rookie programer at Screw Divers Ftc #23705</h3>
+<h1 align="center">Hi 👋, I'm Nadav Shmuly</h1>
+<h3 align="center">I am a computer science student, I am also the lead Pybricks developer at the Mars Monkeys #3140 FLL and a rookie programmer at Screw Divers FTC #23705</h3>
 
 - I’m currently working on **FLL Bioglow season**
 
